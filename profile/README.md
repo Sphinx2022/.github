@@ -12,4 +12,7 @@ After having decided an approach to follow for the Lifeware's challenge, consist
 
 ## The software
 
-
+The repos of the software are: 
+- [**esp32-high-level**](https://github.com/Sphinx2022/esp32-high-level): It is 
+- [**esp32-optimized-entwurf**](https://github.com/Sphinx2022): It is
+- [**sphinx-app**](https://github.com/Sphinx2022/sphinx-app): A simple app developed with **Flutter**, by using a template since the frontend was not considered important

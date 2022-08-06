@@ -5,3 +5,9 @@ This is the project done for the [NOI Hackathon in Schenna - 2022](https://hacka
 ## The challenge 
 
 The challenge consisted in developing embedded software that supported low-energy bluetooth communication, with the challenge, not so relevant, example of sending photos sent by an ESP32.
+
+## A bit of history
+
+After having decided an approach to follow for the Lifeware's challenge, consisting in using machine learning (regression algs.) to determine an equation from input / outputs. Because the team did not have huge experience with AI, after some attempts the team decided to pass to the FOS challenge.
+
+

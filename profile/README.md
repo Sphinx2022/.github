@@ -19,4 +19,8 @@ The repos of the software are:
 
 ## The high-level prototype
 
-The high level prototype uses the
+The high level prototype uses normal bluetooth and sends the taken photos to a connected client. A draft that is focused on low energy consumption but that sends just increasingly numbers and works with another ESP32 as client. The draft uses callbacks to detect if no user is connected and potentially adapt its behaviour in base of that. This would also make it easier to use deep sleep (that would be in any case used for the sleep between different photos.
+
+## How to use it
+
+Both the repos are based on Arduino IDE and the standard tools to interact with an ESP32 with camera. The only lib, used for the high-level one is BluetoothSerial.

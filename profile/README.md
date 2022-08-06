@@ -8,6 +8,8 @@ The challenge consisted in developing embedded software that supported low-energ
 
 ## A bit of history
 
-After having decided an approach to follow for the Lifeware's challenge, consisting in using machine learning (regression algs.) to determine an equation from input / outputs. Because the team did not have huge experience with AI, after some attempts the team decided to pass to the FOS challenge.
+After having decided an approach to follow for the Lifeware's challenge, consisting in using machine learning (regression algs.) to determine an equation from input / outputs. Because the team did not have huge experience with AI, after some attempts the team decided to pass to the FOS challenge. Even if some aspects could not be faced in detail due to the reduced amount of time, a prototype with a simple behaviour has been developed.
+
+## The software
 
 

@@ -13,6 +13,10 @@ After having decided an approach to follow for the Lifeware's challenge, consist
 ## The software
 
 The repos of the software are: 
-- [**esp32-high-level**](https://github.com/Sphinx2022/esp32-high-level): It is 
-- [**esp32-optimized-entwurf**](https://github.com/Sphinx2022): It is
-- [**sphinx-app**](https://github.com/Sphinx2022/sphinx-app): A simple app developed with **Flutter**, by using a template since the frontend was not considered important
+- [**esp32-high-level**](https://github.com/Sphinx2022/esp32-high-level): It contains the ESP32 code used for the working prototype, that was high-level and not so focused in sparing energy.
+- [**esp32-optimized-entwurf**](https://github.com/Sphinx2022): It contains the ESP32 code regarding the draft, the prototype the could have been delivered with more time and that uses BLE.
+- [**sphinx-app**](https://github.com/Sphinx2022/sphinx-app): A simple app developed with **Flutter**, by using a template since the frontend was not considered important.
+
+## The high-level prototype
+
+The high level prototype uses the

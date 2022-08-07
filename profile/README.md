@@ -2,6 +2,8 @@
 
 This is the project done for the [NOI Hackathon in Schenna - 2022](https://hackathon.bz.it/), precisely for the **FOS Group's challenge**.
 
+**Update:** First place in the challenge!!!
+
 ## The challenge 
 
 The challenge consisted in developing embedded software that supported low-energy bluetooth communication, with the challenge, not so relevant, example of sending photos sent by an ESP32.
@@ -24,3 +26,11 @@ The high level prototype uses normal bluetooth and sends the taken photos to a c
 ## How to use it
 
 Both the repos are based on Arduino IDE and the standard tools to interact with an ESP32 with camera. The only lib, used for the high-level one is BluetoothSerial.
+
+## People
+
+The members of the team are:
+* **[Claudio Vigliarolo](https://github.com/ClaudioVigliarolo)**
+* **[Giulia Cramarossa](https://github.com/giuliacramarossa)**
+* Michael Plotegher
+* **[Eugenio Berretta](https://github.com/euberdeveloper)**

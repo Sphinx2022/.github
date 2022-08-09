@@ -1,6 +1,6 @@
 # Sphinx 2022
 
-This is the project done for the [NOI Hackathon in Schenna - 2022](https://hackathon.bz.it/), precisely for the **FOS Group's challenge**.
+This is the project done for the [NOI Hackathon in Schenna - 2022](https://hackathon.bz.it/edition/summer-2022), precisely for the **FOS Group's challenge**.
 
 **Update:** First place in the challenge!!!
 
